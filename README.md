@@ -1,24 +1,3 @@
-# vue_routing
+## An app that shows you current weather at the specified address
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Address can be provied by this URL http://localhost:8080/#/weather/{street address}|{city}|{state}|{zip code}
